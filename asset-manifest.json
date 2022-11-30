@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/radioshack/static/css/main.db693c78.css",
+    "main.js": "/radioshack/static/js/main.8363cf69.js",
+    "static/js/787.0d40c3c2.chunk.js": "/radioshack/static/js/787.0d40c3c2.chunk.js",
+    "static/media/RP4_KICK_1.mp3": "/radioshack/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
+    "static/media/Dsc_Oh.mp3": "/radioshack/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
+    "static/media/Heater-6.mp3": "/radioshack/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/radioshack/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Cev_H2.mp3": "/radioshack/static/media/Cev_H2.0b159bd307a31937b138.mp3",
+    "index.html": "/radioshack/index.html",
+    "main.db693c78.css.map": "/radioshack/static/css/main.db693c78.css.map",
+    "main.8363cf69.js.map": "/radioshack/static/js/main.8363cf69.js.map",
+    "787.0d40c3c2.chunk.js.map": "/radioshack/static/js/787.0d40c3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db693c78.css",
+    "static/js/main.8363cf69.js"
+  ]
+}
