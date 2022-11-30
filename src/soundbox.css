@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+.head {
+    text-align: center;
+    padding-top: 30vh;
+    padding-bottom: 30px;
+    color: aliceblue;
+}
+
+.buttonGroup {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 97%;
+}
+
+button {
+    background-color: rgba(230, 192, 88, 0.986);
+    border:  none;
+    height: 50px;
+    width: 60px ;
+    border-radius: 10px;
+    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+    font-size: large;
+    transition: all 0.4s ease 0s;
+}
+
+button:hover {
+    background-color: aquamarine;
+    height: 60px;
+    width: 70px;
+    transition: all 0.4s ease 0s;
+    cursor: pointer;
+}
+
+.letss {
+    height: 100vh;
+    background: linear-gradient(to bottom right, #8f197b,rgb(248, 248, 248))
+  }
+  
+
